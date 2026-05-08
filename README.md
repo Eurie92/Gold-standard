@@ -1,4 +1,3 @@
-# Gold-standard
 WEASOLVE: Weather-Based Food Recommendation System
 Group: V of Spades
 Project Lead: Paulino, Eurie V.
