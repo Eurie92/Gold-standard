@@ -1,0 +1,24 @@
+24 food record/s loaded successfully.
+
+==========================================
+                  WEASOLVE                
+  Weather-Based Food Recommendation System
+       SDG 3 - Good Health and Well-Being 
+     Gold + Architect Candidate Version   
+==========================================
+Current Weather: NOT SET
+
+[1] Enter Current Weather
+[2] View Simple Weather Recommendations
+[3] Save Favorite Food
+[4] View Favorite Foods
+[5] Smart Ranked Recommendation Engine
+[6] View All Food Records
+[7] Search Food Record
+[8] Add New Food Record
+[9] Update Food Record
+[10] Delete Food Record
+[11] Generate Summary Report
+[12] Save and Exit
+Enter choice: Data saved successfully.
+Thank you for using WEASOLVE!

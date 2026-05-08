@@ -1,0 +1,148 @@
+24 food record/s loaded successfully.
+
+==========================================
+                  WEASOLVE                
+  Weather-Based Food Recommendation System
+       SDG 3 - Good Health and Well-Being 
+     Gold + Architect Candidate Version   
+==========================================
+Current Weather: NOT SET
+
+[1] Enter Current Weather
+[2] View Simple Weather Recommendations
+[3] Save Favorite Food
+[4] View Favorite Foods
+[5] Smart Ranked Recommendation Engine
+[6] View All Food Records
+[7] Search Food Record
+[8] Add New Food Record
+[9] Update Food Record
+[10] Delete Food Record
+[11] Generate Summary Report
+[12] Save and Exit
+Enter choice: Enter weather (sunny/rainy/cold): Current weather set to: rainy
+
+==========================================
+                  WEASOLVE                
+  Weather-Based Food Recommendation System
+       SDG 3 - Good Health and Well-Being 
+     Gold + Architect Candidate Version   
+==========================================
+Current Weather: rainy
+
+[1] Enter Current Weather
+[2] View Simple Weather Recommendations
+[3] Save Favorite Food
+[4] View Favorite Foods
+[5] Smart Ranked Recommendation Engine
+[6] View All Food Records
+[7] Search Food Record
+[8] Add New Food Record
+[9] Update Food Record
+[10] Delete Food Record
+[11] Generate Summary Report
+[12] Save and Exit
+Enter choice: Enter budget level (low/mid/high): Enter your available money: PHP 
+========== WEASOLVE SMART RANKED RECOMMENDATIONS ==========
+Weather: rainy
+Budget Level: low
+Available Money: PHP 100.00
+Scoring Formula: Weather 40 + Budget 25 + Affordability 25 + Health Suitability 10 = 100
+
+Rank #1 | Score: 100/100
+----------------------------------------
+ID          : 10
+Food Name   : Lugaw with Egg
+Weather     : rainy
+Budget      : low
+Price       : PHP 55.00
+Restaurant  : Lugawan sa Kanto
+Health Note : Warm and affordable comfort food for rainy weather
+Why recommended:
+- Weather Match (+40): Tugma ang food sa current weather ng user.
+- Budget Match (+25): Tugma ang food sa selected budget level.
+- Affordable (+25): Price is PHP 55, which fits the user's available money of PHP 100.
+- Health/Weather Suitability (+10): Health note strongly supports the weather situation.
+
+Rank #2 | Score: 100/100
+----------------------------------------
+ID          : 9
+Food Name   : Arroz Caldo
+Weather     : rainy
+Budget      : low
+Price       : PHP 70.00
+Restaurant  : Local Lugawan
+Health Note : Warm rice porridge for rainy comfort food
+Why recommended:
+- Weather Match (+40): Tugma ang food sa current weather ng user.
+- Budget Match (+25): Tugma ang food sa selected budget level.
+- Affordable (+25): Price is PHP 70, which fits the user's available money of PHP 100.
+- Health/Weather Suitability (+10): Health note strongly supports the weather situation.
+
+Rank #3 | Score: 100/100
+----------------------------------------
+ID          : 22
+Food Name   : Ginisang Munggo
+Weather     : rainy
+Budget      : low
+Price       : PHP 75.00
+Restaurant  : Local Karinderya
+Health Note : Warm and budget-friendly comfort meal for rainy weather
+Why recommended:
+- Weather Match (+40): Tugma ang food sa current weather ng user.
+- Budget Match (+25): Tugma ang food sa selected budget level.
+- Affordable (+25): Price is PHP 75, which fits the user's available money of PHP 100.
+- Health/Weather Suitability (+10): Health note strongly supports the weather situation.
+
+Rank #4 | Score: 100/100
+----------------------------------------
+ID          : 14
+Food Name   : Champorado
+Weather     : rainy
+Budget      : low
+Price       : PHP 80.00
+Restaurant  : Campus Snack Bar
+Health Note : Warm sweet rice meal for rainy mornings
+Why recommended:
+- Weather Match (+40): Tugma ang food sa current weather ng user.
+- Budget Match (+25): Tugma ang food sa selected budget level.
+- Affordable (+25): Price is PHP 80, which fits the user's available money of PHP 100.
+- Health/Weather Suitability (+10): Health note strongly supports the weather situation.
+
+Rank #5 | Score: 100/100
+----------------------------------------
+ID          : 11
+Food Name   : Beef Mami
+Weather     : rainy
+Budget      : low
+Price       : PHP 90.00
+Restaurant  : Noodle House
+Health Note : Warm noodle soup for rainy weather
+Why recommended:
+- Weather Match (+40): Tugma ang food sa current weather ng user.
+- Budget Match (+25): Tugma ang food sa selected budget level.
+- Affordable (+25): Price is PHP 90, which fits the user's available money of PHP 100.
+- Health/Weather Suitability (+10): Health note strongly supports the weather situation.
+
+==========================================
+                  WEASOLVE                
+  Weather-Based Food Recommendation System
+       SDG 3 - Good Health and Well-Being 
+     Gold + Architect Candidate Version   
+==========================================
+Current Weather: rainy
+
+[1] Enter Current Weather
+[2] View Simple Weather Recommendations
+[3] Save Favorite Food
+[4] View Favorite Foods
+[5] Smart Ranked Recommendation Engine
+[6] View All Food Records
+[7] Search Food Record
+[8] Add New Food Record
+[9] Update Food Record
+[10] Delete Food Record
+[11] Generate Summary Report
+[12] Save and Exit
+Enter choice: Data saved successfully.
+Thank you for using WEASOLVE!
